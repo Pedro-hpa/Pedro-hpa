@@ -17,9 +17,9 @@ Valorizo o aprendizado contínuo e o uso de ferramentas modernas para entregar c
 ### 📜 Certificações Acadêmicas
 
 **🎓 Universidade Estácio de Sá**
-- Programação de Algoritmos Escaláveis – 240h  
-- Programação de Sistemas de Informação – 240h  
-- Programação para Internet – 200h  
+- Programação de Algoritmos Escaláveis
+- Programação de Sistemas de Informação 
+- Programação para Internet 
 
 ---
 
@@ -27,20 +27,20 @@ Valorizo o aprendizado contínuo e o uso de ferramentas modernas para entregar c
 
 **🏛 Fundação Bradesco – Escola Virtual**
 - Python Básico – 18h  
-- Desenvolvimento Orientado a Objetos com Python – 10h  
-- Introdução à Programação Orientada a Objetos (POO) – 5h  
-- Introdução à Análise de Dados com Power BI – 5h  
-- Crie um site com HTML, CSS e JavaScript – 2h  
+- Desenvolvimento Orientado a Objetos com Python
+- Introdução à Programação Orientada a Objetos (POO)  
+- Introdução à Análise de Dados com Power BI 
+- Crie um site com HTML, CSS e JavaScript 
 
 **🧠 Digital Innovation One (DIO)**
-- Introdução ao Machine Learning – 2h  
-- Materiais Complementares: Introdução ao ML – 1h  
-- Métodos de Machine Learning Bioinspirados – 1h  
-- Machine Learning com a BairesDev – 1h  
-- Algoritmos Genéticos – 2h  
-- Redes Neurais Artificiais – 1h  
-- Classificação de Problemas: Explorando Datasets – 1h  
-- Algoritmos de SVM (Support Vector Machine) – 1h  
+- Introdução ao Machine Learning
+- Materiais Complementares: Introdução ao ML 
+- Métodos de Machine Learning Bioinspirados  
+- Machine Learning com a BairesDev  
+- Algoritmos Genéticos  
+- Redes Neurais Artificiais  
+- Classificação de Problemas: Explorando Datasets  
+- Algoritmos de SVM (Support Vector Machine)  
 
 **📌 Outros cursos complementares**
 - Python para Machine Learning  
