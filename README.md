@@ -79,10 +79,10 @@ Valorizo o aprendizado contínuo e o uso de ferramentas modernas para entregar c
 
 ---
 
-### 📊 Estatísticas GitHub
+### 🛠️ Tecnologias
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-hpa&show_icons=true&theme=dark&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-hpa&layout=compact&theme=dark&cache_seconds=86400)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,typescript,python,php,mysql,git" />
+
 
 
 
