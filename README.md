@@ -79,15 +79,6 @@ Valorizo o aprendizado contínuo e o uso de ferramentas modernas para entregar c
 
 ---
 
-### 🧠 Habilidades
-
-![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Avançado-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediário-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-Intermediário-3776AB?style=flat&logo=python)
-![React](https://img.shields.io/badge/React-Intermediário-61DAFB?style=flat&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Básico-3178C6?style=flat&logo=typescript)
-
 
 
 
